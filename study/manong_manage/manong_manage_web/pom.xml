@@ -54,6 +54,14 @@
         <!--        </dependency>-->
 
         <dependency>
+<<<<<<< HEAD
+=======
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-core</artifactId>
+        </dependency>
+
+        <dependency>
+>>>>>>> 730b0593dcfcea17ad6b0ac16274a662f5159478
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
         </dependency>

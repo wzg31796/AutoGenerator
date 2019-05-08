@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f703e445-6814-4533-84c8-06cff6408108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorConfig-base.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorConfig-business.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorSqlmapCustom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mybatis-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mybatis-generator-core-1.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ojdbc14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/generatorSqlmapCustom/GeneratorSqlmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/generatorSqlmapCustom/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/generatorSqlmapCustom/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeneratorSqlmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_common/manong_common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/manong_manage_mapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/manong_manage_pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/manong_manage_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/manong_manage_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/logs/access_log.2019-05-06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_redis/manong_redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_search/manong_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/manong_sso/manong_sso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_common/target/manong_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_common/target/manong_common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/src/main/java/com/wzg/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/src/main/java/com/wzg/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/src/main/java/com/wzg/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/classes/com/wzg/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/classes/com/wzg/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/manong_manage_mapper-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/src/main/java/com/wzg/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/src/main/java/com/wzg/pojo/UserExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/manong_manage_pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/src/main/java/com/wzg/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/src/main/java/com/wzg/service/impl/userServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/classes/com/wzg/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/classes/com/wzg/service/impl/userServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/manong_manage_service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/java/com/wzg/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/resources/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/com/wzg/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/com/wzg/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/fastdfs-client-java-1.27-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/json-20180813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_mapper-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_manage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_manage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_redis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_redis/target/manong_redis-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_redis/target/manong_redis-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_redis/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_redis/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_redis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_redis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_search/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_search/target/manong_search-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_search/target/manong_search-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_search/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_search/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_search/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_search/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_sso/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_sso/target/manong_sso-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_sso/target/manong_sso-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_sso/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../study/manong_sso/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_sso/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/manong_sso/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_common/target/manong_common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/src/main/java/com/wzg/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/classes/com/wzg/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/classes/com/wzg/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/manong_manage_mapper-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/src/main/java/com/wzg/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/src/main/java/com/wzg/pojo/UserExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/classes/com/wzg/pojo/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/manong_manage_pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/src/main/java/com/wzg/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/src/main/java/com/wzg/service/impl/userServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/classes/com/wzg/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/classes/com/wzg/service/impl/userServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/manong_manage_service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/java/com/wzg/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/resources/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/com/wzg/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/com/wzg/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/conf/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/fastdfs-client-java-1.27-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/json-20180813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_mapper-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/manong_manage_service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/manong_manage_web-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_manage/manong_manage_web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_redis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_redis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_redis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_search/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_search/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_search/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_sso/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_sso/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_study/manong_sso/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GeneratorSqlmap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wzg/pojo/UserWithBLOBs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wzg/pojo/UserKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generatorConfig-base.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generatorConfig-business.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/db.properties" />
+        <option value="$PROJECT_DIR$/generatorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="362" />
+    <option name="y" value="124" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="generatorSqlmapCustom-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generatorSqlmapCustom-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generatorSqlmapCustom-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generatorSqlmapCustom-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generatorSqlmapCustom-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generatorSqlmapCustom-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generatorSqlmapCustom-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generatorSqlmapCustom-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generatorSqlmapCustom-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generatorSqlmapCustom-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\maven\Project\generatorSqlmapCustom-master\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GeneratorSqlmap">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneratorSqlmap" />
+      <module name="generatorSqlmapCustom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-8.0.15.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratorSqlmap" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.15.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f703e445-6814-4533-84c8-06cff6408108" name="Default Changelist" comment="" />
+      <created>1557147720953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557147720953</updated>
+      <workItem from="1557147722149" duration="3068000" />
+      <workItem from="1557313754988" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3394000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="362" y="124" width="1200" height="646" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="设计师" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25789472" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" />
+      <window_info anchor="bottom" id="消息" order="1" />
+      <window_info anchor="bottom" id="运行" order="2" />
+      <window_info anchor="bottom" id="调试" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.3297162" />
+      <window_info anchor="right" id="控制板" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24928367" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295129" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/mybatis-generator-core-1.3.2.jar!/org/mybatis/generator/config/xml/ConfigurationParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taotao/pojo/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wzg/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GeneratorSqlmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorConfig-base.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorConfig-business.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wzg/pojo/UserKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wzg/pojo/UserWithBLOBs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

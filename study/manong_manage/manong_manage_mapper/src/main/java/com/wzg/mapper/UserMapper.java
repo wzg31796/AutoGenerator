@@ -11,8 +11,11 @@ public interface UserMapper {
 
     int deleteByExample(UserExample example);
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 730b0593dcfcea17ad6b0ac16274a662f5159478
     int deleteByPrimaryKey(Integer id);
 
     int insert(User record);
